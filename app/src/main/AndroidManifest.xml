@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SignUpApp">
         <activity
+            android:name=".FinishedScreen"
+            android:exported="true" />
+        <activity
+            android:name=".SignUpScreen"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

@@ -3,4 +3,17 @@
     <string name="intro">Welcome to the Sign Up App!</string>
     <string name="signText">Click Sign Up below to continue</string>
     <string name="signUpButton">SIGN UP</string>
+    <string name="nameDeclare">Your Name is: </string>
+    <string name="usernameDeclare">Your Username is: </string>
+    <string name="phoneNumber">Your Phone Number is: </string>
+    <string name="typeName">Type your name here</string>
+    <string name="home">HOME</string>
+    <string name="phone">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="submit">SUBMIT</string>
+    <string name="username">Username</string>
+    <string name="typePhone">Type your phone number here</string>
+    <string name="typeUsername">Type your username here</string>
+
+
 </resources>
